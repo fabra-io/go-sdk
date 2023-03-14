@@ -16,7 +16,7 @@ type GetSchemaRequest struct {
 }
 
 type GetSchema200ApplicationJSON struct {
-	Schema []shared.ColumnSchema `json:"schema,omitempty"`
+	Schema []shared.Field `json:"schema,omitempty"`
 }
 
 type GetSchemaResponse struct {

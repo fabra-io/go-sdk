@@ -29,7 +29,7 @@ pkg/models/operations/createsource.go
 pkg/models/operations/getsources.go
 pkg/models/operations/createsync.go
 pkg/models/operations/getsyncs.go
-pkg/models/shared/columnschema.go
+pkg/models/shared/field.go
 pkg/models/shared/fieldtypeenum.go
 pkg/models/shared/destination.go
 pkg/models/shared/connection.go

@@ -79,3 +79,43 @@ Based on:
 - Speakeasy CLI 1.8.5 https://github.com/speakeasy-api/speakeasy
 ### Releases
 - [Go v0.5.2] https://github.com/fabra-io/go-sdk/releases/tag/v0.5.2 - .
+
+## 2023-03-08 00:34:35
+### Changes
+Based on:
+- OpenAPI Doc 0.1.0 https://fabra-io.github.io/docs/openapi.yaml
+- Speakeasy CLI 1.8.6 https://github.com/speakeasy-api/speakeasy
+### Releases
+- [Go v0.5.3] https://github.com/fabra-io/go-sdk/releases/tag/v0.5.3 - .
+
+## 2023-03-09 00:34:05
+### Changes
+Based on:
+- OpenAPI Doc 0.1.0 https://fabra-io.github.io/docs/openapi.yaml
+- Speakeasy CLI 1.8.7 https://github.com/speakeasy-api/speakeasy
+### Releases
+- [Go v0.5.4] https://github.com/fabra-io/go-sdk/releases/tag/v0.5.4 - .
+
+## 2023-03-10 00:34:06
+### Changes
+Based on:
+- OpenAPI Doc 0.1.0 https://fabra-io.github.io/docs/openapi.yaml
+- Speakeasy CLI 1.9.1 https://github.com/speakeasy-api/speakeasy
+### Releases
+- [Go v0.6.0] https://github.com/fabra-io/go-sdk/releases/tag/v0.6.0 - .
+
+## 2023-03-11 00:28:39
+### Changes
+Based on:
+- OpenAPI Doc 0.1.0 https://fabra-io.github.io/docs/openapi.yaml
+- Speakeasy CLI 1.9.2 https://github.com/speakeasy-api/speakeasy
+### Releases
+- [Go v0.6.1] https://github.com/fabra-io/go-sdk/releases/tag/v0.6.1 - .
+
+## 2023-03-14 00:29:19
+### Changes
+Based on:
+- OpenAPI Doc 0.1.0 https://fabra-io.github.io/docs/openapi.yaml
+- Speakeasy CLI 1.9.2 https://github.com/speakeasy-api/speakeasy
+### Releases
+- [Go v0.6.2] https://github.com/fabra-io/go-sdk/releases/tag/v0.6.2 - .
